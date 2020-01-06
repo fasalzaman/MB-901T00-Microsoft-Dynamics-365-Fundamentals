@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'Lab 01: Explore Dynamics 365 Sales'
-    module: 'Module 04: Dynamics 365 Sales'
+    module: 'Module 05: Dynamics 365 Sales'
 ---
 
 # MB-901: Dynamics 365 Sales
-## Module 4, Lab 1 – Explore Dynamics 365 Sales
+## Module 5, Lab 1 – Explore Dynamics 365 Sales
 
 **Prerequisites:** Prior to performing the steps of this lab, perform the following tasks:
 
