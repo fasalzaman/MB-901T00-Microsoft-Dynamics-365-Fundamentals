@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Lab 03: Build a campaign'
-    module: 'Module 6: Introduction to Dynamics 365 Marketing'
+    module: 'Module 06: Introduction to Dynamics 365 Marketing'
 ---
 
 # MB-901: Dynamics 365 Fundamentals 
