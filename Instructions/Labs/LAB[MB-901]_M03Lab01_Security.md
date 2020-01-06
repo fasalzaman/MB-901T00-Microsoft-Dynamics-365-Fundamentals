@@ -64,7 +64,7 @@ https://crmmYOURID.crm.dynamics.com/main.aspx?settingsonly=true
 For example, you can mitigate the risk by conducting more detailed reviews of the process, by conducting a monthly managerial review, or by sharing resources with other departments.
 1. Click **Save**.
 
-## Lab 3: Enhance security by encrypting your data
+## Exercise 3: Enhance security by encrypting your data
 
 **Scenario:** You, as a system administrator need to change and copy the organization encryption key.
 
