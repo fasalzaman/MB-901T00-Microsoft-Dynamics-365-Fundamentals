@@ -9,7 +9,7 @@ lab:
 
 **Scenario:** As a system administrator, you need to find out what are the available out of the box security roles of Dynamics 365.
 
-### Instructions:
+### Instructions
 1. In order to navigate to Dynamics 365 Settings dashboard, add the following: 
 
 ``
