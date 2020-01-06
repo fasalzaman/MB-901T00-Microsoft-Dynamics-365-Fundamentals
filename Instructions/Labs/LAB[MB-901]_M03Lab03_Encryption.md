@@ -5,10 +5,7 @@ lab:
 ---
 
 # MB-901: Dynamics 365 Fundamentals
-## Module 3 - Lab 3: Enhance security by encrypting your data
-
-
-## Lab 3: Enhance security by encrypting your data
+## Module 3, Lab 3: Enhance security by encrypting your data
 
 **Scenario:** You, as a system administrator need to change and copy the organization encryption key.
 
