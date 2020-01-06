@@ -1,14 +1,14 @@
 ---
 lab:
-    title: 'Lab 01: Security'
+    title: 'Lab 01: Explore security roles in Dynamics 365 model-driven applications'
     module: 'Module 03: Dynamics 365 security'
 ---
 
 # MB-901: Dynamics 365 Fundamentals 
-## Module 3, Lab 1 - Security
+## Module 3, Lab 1 - Explore security roles in Dynamics 365 model-driven applications
 
 
-## Exercise 1: Explore security roles in Dynamics 365 model-driven applications
+## Lab 1: Explore security roles in Dynamics 365 model-driven applications
 
 **Scenario:** As a system administrator, you need to find out what are the available out of the box security roles of Dynamics 365.
 
