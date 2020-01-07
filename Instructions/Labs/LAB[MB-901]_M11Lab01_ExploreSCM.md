@@ -11,7 +11,7 @@ lab:
 
 In **USMF**, you need to create a new item for a new configuration of cabinet to be purchased from vendors. 
 
-### Create a released product.
+### Create a released product
 
 1. Navigate to **Product information management** > **Products>Released products**.
 1. Click **New**. 
@@ -93,6 +93,7 @@ In **USMF**, you need to create a new item (V neck T-shirt) to buy.  This item w
 1. Click **Select all**.
 1. Click **Create**.
 1. Close all pages.  
+
 ## Exercise 3: Create a purchase order
 
 ### Create a Purchase Order
