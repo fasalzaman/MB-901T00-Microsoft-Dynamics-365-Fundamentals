@@ -1,7 +1,7 @@
 ---
 lab:
-    title: 'Lab 01: Explore Dynamics 365 Human Resources'
-    module: 'Module 13: Create a job'
+    title: 'Lab 01: Create a job'
+    module: 'Module 13: Introduction to Dynamics 365 Human Resources'
 ---
 
 # MB-901: Dynamics 365 Fundamentals 
