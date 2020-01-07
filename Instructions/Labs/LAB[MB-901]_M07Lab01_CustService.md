@@ -14,7 +14,6 @@ lab:
 1. If the sample data isn't installed, select **Install Sample Data**. The sample data might take a few minutes to appear, but you can continue to use the application while it's installed. 
 1. Select **Close**. 
 
-### Create and manage a case
 **Scenario:**
 As a customer service representative, you need to keep track of your customer requests and issues by creating support cases in Dynamics 365 Customer Service. When a customer contacts support with a question or problem, you can quickly check if there is an existing case or open a new case and start tracking the issue. You can also escalate, reassign, or put a case back into the service queue if you don’t have enough information or time to work on it.
 
@@ -22,9 +21,10 @@ Before you provide support, you can also check the customer’s entitlements. En
 
 To help you select the right status of a case, your administrator may have set things up so that you only see a limited set of statuses based on the current status of a case.
 
-**Instructions:**
+## Instructions
 
 ### Create a case
+
 1. In the **Customer Service Hub**, go to **Service** > **Cases**.
 1. Select **New Case**.
 1. In the **Case Title** field, type **Seahorse Smart Watch**
