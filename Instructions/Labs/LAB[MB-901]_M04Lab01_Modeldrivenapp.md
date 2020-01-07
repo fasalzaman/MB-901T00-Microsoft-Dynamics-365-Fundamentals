@@ -9,7 +9,7 @@ lab:
 
 **Scenario:** You need to simplify create a model-driven app by using one of the standard entities that's available in your Power Apps environment. Model-driven apps don't run in the Power Apps mobile app. Instead, you run a model-driven app on a mobile device using either the Dynamics 365 mobile app or in the phone's web browser.
 
-### Instructions
+## Instructions
 
 1. Sign in with your window’s live id to Power Apps. If you don’t already have a Power Apps account, select the Get started free link from https://signup.microsoft.com/Start?sku=powerapps_viral&ru=https%3a%2f%2fweb.powerapps.com%2flogin%2fportal
 2. Go to the Power Apps admin center to create a new one. Click **+ New Environment**.
