@@ -7,9 +7,6 @@ lab:
 # MB-901: Dynamics 365 Fundamentals
 ## Module 3, Lab 2 - Explore security roles in Dynamics 365 Finance and Operations applications
 
-
-## Lab 2: Explore security roles in Dynamics 365 Finance and Operations applications
-
 **Scenario:** The HR department of USMF has requested to remove access to the Accounts receivable clerk role in Dynamics 365 Finance and Operations applications for an employee who has changed role. You, as a system administrator need to exclude Accounts receivable clerk role for the employee.
 
 ### Exclude role
