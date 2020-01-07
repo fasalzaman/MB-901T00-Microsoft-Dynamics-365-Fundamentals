@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Lab 03: Enhance security by encrypting your data'
-    module: 'Module 03: Dynamics 365 security'
+    module: 'Module 03: Recognize Dynamics 365 security'
 ---
 
 # MB-901: Dynamics 365 Fundamentals
