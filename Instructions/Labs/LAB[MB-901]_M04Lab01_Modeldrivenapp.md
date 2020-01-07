@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Lab 01: Build your first model-driven app from scratch'
-    module: 'Module 04: Connect to and analyze data'
+    module: 'Module 04: Connect and analyze your Dynamics 365 data'
 ---
 
 # MB-901: Dynamics 365 Fundamentals
