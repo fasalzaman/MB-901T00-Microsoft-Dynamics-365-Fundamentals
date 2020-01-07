@@ -7,11 +7,9 @@ lab:
 # MB-901: Dynamics 365 Fundamentals 
 ## Module 11, Lab 1 - Explore Dynamics 365 Supply Chain Management
 
-## Exercise 1: Create a product
+### Create a product
 
 In **USMF**, you need to create a new item for a new configuration of cabinet to be purchased from vendors. 
-
-### Create a released product
 
 1. Navigate to **Product information management** > **Products>Released products**.
 1. Click **New**. 
@@ -35,8 +33,10 @@ In **USMF**, you need to create a new item for a new configuration of cabinet to
 1. Click **Validate** to ensure the product is completely finalized. This button is located on the product action pane.
 1. Close all pages. 
 
-## Exercise 2: Create product masters
+### Create product masters
+
 In **USMF**, you need to create a new item (V neck T-shirt) to buy.  This item will be available in size Small, Medium and Large and in colors: Black and Red.
+
 1. Navigate to **Product information management** > **Products** > **Released products**.
 1. Click **New**.
 1. In the **Product type** field, select **Item**
@@ -94,8 +94,6 @@ In **USMF**, you need to create a new item (V neck T-shirt) to buy.  This item w
 1. Click **Create**.
 1. Close all pages.  
 
-## Exercise 3: Create a purchase order
-
 ### Create a Purchase Order
 
 Create one purchase order for Acme Office Supplies, to be delivered today, with 5 of item number T0003 to be delivered to Site 1, and 5 of M1101 Foam Reacting Agent to be delivered to the Quality Testing Center123 W. Cherry Street, Zip Code 83642.
@@ -106,7 +104,7 @@ Create one purchase order for Acme Office Supplies, to be delivered today, with 
 1. **Delivery date:** Verify the current date in the **Delivery date** field (this should be the default value).
 1. Click **OK**
 
-### Add items to the purchase order.
+### Add items to the purchase order
 
 1. **Item number:** Select **T0003**.
 1. **Quantity:** Enter **5**.
@@ -116,7 +114,7 @@ Create one purchase order for Acme Office Supplies, to be delivered today, with 
 1. **Quantity:** Enter **4**.
 1. **Unit:** Enter **pcs**.
 
-### Select delivery addresses for the items.
+### Select delivery addresses for the items
 
 1. Select the line for item **T0003** in the **Purchase order lines** FastTab.
 1. In the **Lines Details** fast tab, change to the **Address** tab.
@@ -137,7 +135,7 @@ Create one purchase order for Acme Office Supplies, to be delivered today, with 
 1. Click **OK** to post the product receipt.  
 1. Close all pages.  
 
-## Exercise 4: Create sales orders
+### Create sales orders
 
 This procedure shows you how to create a sales order. You can use the procedure in demo data company USMF. Sales orders are typically created by a sales order processor.
 
