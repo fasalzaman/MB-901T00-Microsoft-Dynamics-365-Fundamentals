@@ -12,7 +12,7 @@ lab:
 
 **Scenario:** The HR department of USMF has requested to remove access to the Accounts receivable clerk role in Dynamics 365 Finance and Operations applications for an employee who has changed role. You, as a system administrator need to exclude Accounts receivable clerk role for the employee.
 
-### Instructions:
+### Exercise 1 Instructions
 
 1. Go to **System administration** > **Security** > **Assign users to roles**.
 1. In the tree, select **'Accounts receivable clerk'**.
@@ -23,7 +23,7 @@ lab:
 
 **Scenario:** The HR department of USMF has requested having a rule for segregation of duties for **Access benefits workspace** as the first and **Approve production journal** as the second duty. You, as a system administrator need to create the rule.
 
-### Instructions:
+### Exercise 2 Instructions
 
 1. Go to **System administration** > **Security** > **Segregation of duties** > **Segregation of duties rules**.
 1. Click **New**.
