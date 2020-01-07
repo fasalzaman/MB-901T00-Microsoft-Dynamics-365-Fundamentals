@@ -9,7 +9,7 @@ lab:
 
 **Scenario:** You, as a system administrator need to change and copy the organization encryption key.
 
-### Instructions
+## Instructions
 
 1. Navigate to Power Platform Admin center.  
 1. These settings can be found in to **Environments** > [select an environment] > **Settings** > **Encryption** > **Data encryption**.
