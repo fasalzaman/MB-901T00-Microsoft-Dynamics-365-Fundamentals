@@ -77,7 +77,7 @@ lab:
 1. Click the attachment icon and select the word document you have created at the beginning of this lab.
 1. Click **Add notes**.
 
-### Verify the notes created in the lead from Opportunities and save an email draft.
+### Verify the notes created in the lead from Opportunities
 
 1. In the **Dynamics 365 Sales Hub**, navigate to **Sales** > **Opportunities**.
 1. Select **All Opportunities**.
