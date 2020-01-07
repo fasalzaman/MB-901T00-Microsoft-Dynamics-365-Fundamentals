@@ -21,14 +21,11 @@ lab:
 1. If the sample data isn't installed, select **Install Sample Data**. The sample data might take a few minutes to appear, but you can continue to use the application while it's installed. 
 1. Select **Close**. 
 
-## Pinpoint your audience
-
-### Scenario
-
-You need to set up a collection of segments, which you'll define by using terms that resemble those you already use to describe groups of customers. 
+**Scenario:** You need to set up a collection of segments, which you'll define by using terms that resemble those you already use to describe groups of customers. 
 Then you'll use these segments to target marketing initiatives like email-marketing campaigns and customer journeys. Segments like these, which you define by using a set of rules and conditions, are called dynamic segments because membership in these segments changes constantly and automatically based on information in your database. Note: Static segments are populated by adding contacts explicitly, one at a time.
 
-### Instructions
+## Instructions
+
 1. Go to **Marketing** > **Contacts**. This takes you to a list of existing contacts. On the command bar, select **New**.
 1. The **New Contact** page opens. Fill out the following fields:
  - **First Name:** Enter a fictional first name.
