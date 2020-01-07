@@ -9,7 +9,8 @@ lab:
 
 **Scenario:** As a system administrator, you need to find out what are the available out of the box security roles of Dynamics 365.
 
-### Instructions
+## Instructions
+
 1. In order to navigate to Dynamics 365 Settings dashboard, add **?settingsonly=true** at the end of the URL link of your Dynamics 365 business applications. Your URL should look like the following: **https://crmYOURID.crm.dynamics.com/main.aspx?settingsonly=true**. (This example resembles a sample only and does not work if you navigate to it.)
 2. The **System** settings dashboard appears.
 3. Use the **Dynamics 365** > **Settings** menu from the action pane to see the menu items. From the **System** group area, select **Security**
