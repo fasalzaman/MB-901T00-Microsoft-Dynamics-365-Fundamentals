@@ -1,13 +1,11 @@
 ---
 lab:
     title: 'Lab 01: Explore Dynamics 365 Human Resources'
-    module: 'Module 13: Introduction to Dynamics 365 Human Resources'
+    module: 'Module 13: Create a job'
 ---
 
 # MB-901: Dynamics 365 Fundamentals 
-## Module 7, Lab 1 - Explore Dynamics 365 Human Resources
-
-**Create a job**
+## Module 7, Lab 1 - Create a job
 
 The demo data company used to create this task is USMF. This task is intended for the human resources specialist.
 
