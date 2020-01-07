@@ -9,7 +9,8 @@ lab:
 
 **Scenario:** You need to simplify create a model-driven app by using one of the standard entities that's available in your Power Apps environment. Model-driven apps don't run in the Power Apps mobile app. Instead, you run a model-driven app on a mobile device using either the Dynamics 365 mobile app or in the phone's web browser.
 
-### Instructions:
+### Instructions
+
 1. Sign in with your window’s live id to Power Apps. If you don’t already have a Power Apps account, select the Get started free link from https://signup.microsoft.com/Start?sku=powerapps_viral&ru=https%3a%2f%2fweb.powerapps.com%2flogin%2fportal
 2. Go to the Power Apps admin center to create a new one. Click **+ New Environment**.
 3.	In the **New Environment** dialog box, for the field **Environment** name field type **GTLPowerApps**.
@@ -48,6 +49,6 @@ lab:
 31.	On the app designer toolbar, click **Save** and then **Publish**.
 32.	Click **Play**
 34.	Review the results and interact with your first model-driven application.
-35.	Try it on your mobile device by Installing the Dynamics 365 for phones or Dynamics 365 for tablets app from your device’s app store. More information: ![Install Dynamics 365 for phones and tablets](https://docs.microsoft.com/dynamics365/customer-engagement/mobile-app/install-dynamics-365-for-phones-and-tablets)
+35.	Try it on your mobile device by Installing the Dynamics 365 for phones or Dynamics 365 for tablets app from your device’s app store. More information: https://docs.microsoft.com/dynamics365/customer-engagement/mobile-app/install-dynamics-365-for-phones-and-tablets
 36.	Enter the application URL directly into your phone’s web browser and follow the directions on your screen to load the app. 
   **Note:** An example of your application URL will look like the following: https://orgxxxxx.crm.dynamics.com/main.aspx?appid=e4547538-e20f-ea01-a811-000d3a33438d&pagetype=entitylist&etn=account
