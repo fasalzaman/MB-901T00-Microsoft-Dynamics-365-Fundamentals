@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Lab 01: Explore security roles in Dynamics 365 model-driven applications'
-    module: 'Module 03: Dynamics 365 security'
+    module: 'Module 03: Recognize Dynamics 365 security'
 ---
 
 # MB-901: Dynamics 365 Fundamentals 
