@@ -1,11 +1,11 @@
 ---
 lab:
-    title: 'Lab 01: Explore Dynamics 365 Marketing'
+    title: 'Lab 01: Create engaging emails'
     module: 'Module 06: Introduction to Dynamics 365 Marketing'
 ---
 
 # MB-901: Dynamics 365 Fundamentals 
-## Module 6, Lab 1 - Explore Dynamics 365 Marketing
+## Module 6, Lab 1 - Create engaging emails
 
 **Prerequisites:** Prior to performing the steps of this lab, perform the following tasks: 
 1. Go to **Marketing** > **Files**
@@ -21,10 +21,10 @@ lab:
 1. If the sample data isn't installed, select **Install Sample Data**. The sample data might take a few minutes to appear, but you can continue to use the application while it's installed. 
 1. Select **Close**. 
 
-## Create engaging emails
+## Instructions
 
 1. Go to **Marketing** > **Marketing Emails**. This takes you to a list of existing marketing emails. Select **New** on the command bar.
-1. The **New Marketing Email** page opens with the **Select an Email Template** dialog box shown. For this exercise, select the **Blank** template so that you can step through all the required content. Then choose **Select** to apply the template to your new message.  **Tip:** Several standard templates are provided out of the box, and you can also create your own templates that feature your organization's graphical identity, required elements, and messaging standards. More information: [Create templates for emails, pages, forms, and journeys](https://docs.microsoft.com/dynamics365/marketing/create-templates) 
+1. The **New Marketing Email** page opens with the **Select an Email Template** dialog box shown. For this exercise, select the **Blank** template so that you can step through all the required content. Then choose **Select** to apply the template to your new message.  **Tip:** Several standard templates are provided out of the box, and you can also create your own templates that feature your organization's graphical identity, required elements, and messaging standards. More information: https://docs.microsoft.com/dynamics365/marketing/create-templates) 
 1. The **Select an Email Template** dialog box closes and the content (if any) from your selected template is copied to your design. 
 1. From the dropdown next to the **Name** and **Status reason** fields in the upper right corner, select the down arrow for more header fields button at the side of the header to open a drop-down dialog and then enter a **Name** for your new message.
 1. Enter a **Subject** for your message. This is a very important setting because this is one of the first things recipients will see when they receive the email, and they may use this to decide whether or not to read the message.
