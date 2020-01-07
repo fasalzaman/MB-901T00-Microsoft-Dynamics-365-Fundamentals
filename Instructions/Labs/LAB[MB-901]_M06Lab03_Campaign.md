@@ -21,13 +21,12 @@ lab:
 1. If the sample data isn't installed, select **Install Sample Data**. The sample data might take a few minutes to appear, but you can continue to use the application while it's installed. 
 1. Select **Close**. 
 
-## Build a campaign
-
-### Scenario
+**Scenario:**
 
 You need to create a customer journey that executes a one-time email blast.
 
-### Instructions
+## Instructions
+
 1. Go to **Marketing** > **Customer Journeys**. This takes you to a list of existing customer journeys. Select **New** on the command bar.
 1. The **New Customer Journey** page opens with the **Select a Customer Journey Template** dialog box shown. Select **Blank template**, and then choose **Select**. The dialog box closes, and your selected template is copied to your new journey.
 1. Now you are looking at the customer journey designer, where you will assemble a pipeline that defines each step of the journey. Like all journeys, this one starts with the participants, who in this case are the people you specify as part of a market segment. Drag a **Segment Group** tile from the **Toolbox** tab onto the first position of the pipeline.
