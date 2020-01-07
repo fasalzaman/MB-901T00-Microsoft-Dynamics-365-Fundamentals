@@ -7,9 +7,9 @@ lab:
 # MB-901: Dynamics 365 Fundamentals
 ## Module 3, Lab 2 - Explore security roles in Dynamics 365 Finance and Operations applications
 
-**Scenario:** The HR department of USMF has requested to remove access to the Accounts receivable clerk role in Dynamics 365 Finance and Operations applications for an employee who has changed role. You, as a system administrator need to exclude Accounts receivable clerk role for the employee.
-
 ### Exclude role
+
+**Scenario:** The HR department of USMF has requested to remove access to the Accounts receivable clerk role in Dynamics 365 Finance and Operations applications for an employee who has changed role. You, as a system administrator need to exclude Accounts receivable clerk role for the employee.
 
 1. Go to **System administration** > **Security** > **Assign users to roles**.
 1. In the tree, select **'Accounts receivable clerk'**.
@@ -18,9 +18,9 @@ lab:
 1. Click **Exclude from role** to exclude the selected users from the role.
 1. To remove exclusions, select the users that you want to remove exclusions for, and then click **Reset status**. 
 
-**Scenario:** The HR department of USMF has requested having a rule for segregation of duties for **Access benefits workspace** as the first and **Approve production journal** as the second duty. You, as a system administrator need to create the rule.
-
 ### Create segregation of duties rule
+
+**Scenario:** The HR department of USMF has requested having a rule for segregation of duties for **Access benefits workspace** as the first and **Approve production journal** as the second duty. You, as a system administrator need to create the rule.
 
 1. Go to **System administration** > **Security** > **Segregation of duties** > **Segregation of duties rules**.
 1. Click **New**.
