@@ -103,9 +103,9 @@ Then you'll use these segments to target marketing initiatives like email-market
 1. To make sure your journey includes all required content and settings, select **Check for Errors** in the command bar. **Dynamics 365 Marketing** checks it and then displays results. If errors were found, you'll see a message at the top of the window and various indicators to show where the problems are. For example, if one of your tiles is misconfigured, you'll see an error count above the relevant tile, and you can read details about the error by selecting the tile and opening its Properties tab.
 
 If you followed this procedure and your email message is live, your journey should pass the error check. If it doesn't, read the error message, fix the reported issue, and try again until it passes.
-1. Your journey is now ready to go. To start it running, publish it by selecting **Go Live** on the command bar.
+11. Your journey is now ready to go. To start it running, publish it by selecting **Go Live** on the command bar.
 
 Dynamics 365 Marketing copies the journey to its email marketing service, which executes the journey by processing contacts, performing actions, and collecting results during the time it is set to run. The journey's **Status Reason** is updated to Live.
-1. It might take several minutes for your messages to get sent, so allow some time for them to arrive in your inbox. After they do, open them and load the images. Then you can go back to Dynamics 365 Marketing and see how your journey is going. The **Designer** tab now shows information and results for each tile from your pipeline. Open the **Insights** tab to see detailed analytics.
+12. It might take several minutes for your messages to get sent, so allow some time for them to arrive in your inbox. After they do, open them and load the images. Then you can go back to Dynamics 365 Marketing and see how your journey is going. The **Designer** tab now shows information and results for each tile from your pipeline. Open the **Insights** tab to see detailed analytics.
 
 
