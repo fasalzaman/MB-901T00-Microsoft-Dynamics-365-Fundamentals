@@ -22,7 +22,7 @@ lab:
 
 ### Create new contact
 
-1. In the **Dynamics 365 Sales Hub**, navigate to **Sales** > **Contacts**.
+1. In the **Dynamics 365 Sales Hub**, navigate to **Customers** > **Contacts**.
 1. Click **New**.
 1. In the **First Name** field, type **Cameron**.
 1. In the **Last Name** field, type **Azadi**.
@@ -30,7 +30,7 @@ lab:
 1. In the **Business Phone** field, type **949-555-1212**.
 1. In the **Address 1: Street 1** field, type **1 Microsoft Way**.
 1. In the **Address 1: City** field, type **Redmond**.
-**Note:** if demo data has been uploaded the **Address Suggestions** form will appear. Click **OK**. It will auto populate the **Address 1** fields. 
+    - **Note:** if demo data has been uploaded the **Address Suggestions** form will appear. Click **OK**. It will auto populate the **Address 1** fields. 
 1. In the **Address 1: Sate/Province** field, type **WA**.
 1. In the **Address 1: ZIP/Postal Code** field, type **98007**.
 1. In the **Address 1: Country/Region** field, type **United States**.
@@ -43,16 +43,14 @@ lab:
 1. Click **New**
 1. Click the **Qualify stage** icon.
 1. In the **Existing Contact?**  field, select or type **Cameron Azadi**.
-**Note:** Selecting an existing contact while creating a lead record, automatically populates First Name, Last Name, Job Title, Business Phone, Mobile Phone, and Email in the Lead form. Selecting an existing Account, will auto populate the company name in the lead form. This makes it really quick and easy to enter a lead record.
+- **Note:** Selecting an existing contact while creating a lead record, automatically populates First Name, Last Name, Job Title, Business Phone, Mobile Phone, and Email in the Lead form. Selecting an existing Account, will auto populate the company name in the lead form. This makes it really quick and easy to enter a lead record.
 1. In the **Topic** field, type **Likes our Xbox products**.
 1. Click **Save**.
-1. In the **Dynamics 365 Sales** Hub, navigate to **Sales** > **Dashboards**.
 
 ### Change system settings
 
-1. Navigate to **Settings>Advanced** Settings.
-1. Navigate to **Settings>Administration**.
-1. Click **System Settings**.
+1. Navigate to the **Settings** gear icon in the upper right menu. Use the dropdown to choose **Advanced Settings**.
+1. Click the dropdown next to **Settings** and navigate to **Administration** under **System Settings.**
 1. Select **Sales** tab.
 1. In the **Qualify lead experience** field, select **No**.
 1. Click **OK**.
@@ -71,18 +69,18 @@ lab:
 
 1. In the **Timeline** section, click **+** to add a new **Note**.
 1. In the **Title** field, type **Meeting with Cameron regarding the Xbox X-Series**.
-1. Click **Add notes**.
+1. Click **Add note**.
 1. In the **Timeline** section, click **+** to add another **Note** with attachment.
 1. In the **Title** field, type **Xbox X-Series product information**.
 1. Click the attachment icon and select the word document you have created at the beginning of this lab.
-1. Click **Add notes**.
+1. Click **Add note**.
 
 ### Verify the notes created in the lead from Opportunities
 
 1. In the **Dynamics 365 Sales Hub**, navigate to **Sales** > **Opportunities**.
-1. Select **All Opportunities**.
+1. Switch the view by clicking the dropdown menu and selecting **All Opportunities**.
 1. Click to select the opportunity **Likes our Xbox products for Cameron Azadi**.
-1. Note the attachment and notes created in the lead form, is also available in the opportunity form. 
+1. Note that the attachment and notes created in the lead form is also available in the opportunity form. 
 1. In the **Timeline** section, click **+** to draft and send an **Email**. The email pop-up will appear.
 1. In the **Subject** field, type **Xbox X-Series**.
 1. Type a message such as “Hi Cameron, thank you for your interest in Xbox X-Series. We look forward to our meeting.” 
