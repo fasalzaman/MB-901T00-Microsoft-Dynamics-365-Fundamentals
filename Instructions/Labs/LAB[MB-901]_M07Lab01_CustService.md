@@ -8,7 +8,8 @@ lab:
 ## Module 7, Lab 1 - Explore Dynamics 365 Customer Service 
 
 **Prerequisites:** Prior to performing the steps of this lab, perform the following tasks: 
-**Optional: **
+
+**Optional:**
 1. In your Dynamics 365 instance, go to **Settings** > **Data Management**. 
 1. Select **Sample Data**. 
 1. If the sample data isn't installed, select **Install Sample Data**. The sample data might take a few minutes to appear, but you can continue to use the application while it's installed. 
@@ -27,15 +28,15 @@ To help you select the right status of a case, your administrator may have set t
 
 1. In the **Customer Service Hub**, go to **Service** > **Cases**.
 1. Select **New Case**.
-1. In the **Case Title** field, type **Seahorse Smart Watch**
-1. In the **Customer** field, select a customer **Fabrikam, Inc**.
+1. In the **Case Title** field, type **Seahorse Smart Watch**.
+1. In the **Customer** field, select customer **Fabrikam.** 
 1. In the **Description** field, type **Issue with the Smart watch**
 1. Click **Details** tab.
 1. In the **Contact** field, select the **Contact lookup** button and select an existing contact for the case or select **New** in the inline lookup results to create a new contact record.
 1. Click **Save**.
-1. To track your conversation with the customer, in the **TimeLine** section click **+** to add info and activities.
-1. Click **Note**
-1. In the **Tile** field, type **Smart Watch Defect**.
+1. To track your conversation with the customer, in the **Timeline** section click **+** to add info and activities.
+1. Click **Note**.
+1. In the **Title** field, type **Smart Watch Defect**.
 1. In the **Note** field, type **Send for repair**.
 1. Click **Add note**. 
 14.	To see what kind of support you should provide the customer, select the **Entitlements lookup** button and select an active entitlement.
@@ -51,7 +52,7 @@ To help you select the right status of a case, your administrator may have set t
 Before you resolve a case, make sure that all the case activities are closed. Otherwise, you’ll get a message saying that you still have open activities associated with the case, which will be canceled if the case is resolved.
 
 1. Go to **Service** > **Cases**.
-1. In the list of active cases, open the **Seahorse Smart Watch** case to resolve  .
+1. In the list of active cases, open the **Seahorse Smart Watch** case to resolve.
 1. On the command bar, select **Resolve case**.
 1. In the **Resolve Case** dialog box, in the **Resolution Type** list, select **Problem Solved**.
 1. In the **Resolution** box, type **Repaired**.
