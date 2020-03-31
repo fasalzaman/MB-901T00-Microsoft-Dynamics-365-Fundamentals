@@ -18,8 +18,7 @@ lab:
 
 We strongly recommend that you make a copy of your data encryption key.
 
-1. Sign in with the **System Administrator** or **System Customizer** security role or equivalent permissions.
-1. Select an environment and go to **Settings** > **Encryption**.
+1. Select the same environment you used in steps 1-4 and go to **Settings** > **Encryption**.
 1. In the **Data Encryption** dialog box, select **Show Encryption Key**, in the **Current encryption key box** select the encryption key, and copy it to the clipboard.
 1. Paste the encryption key into a text editor such as Notepad.
 
