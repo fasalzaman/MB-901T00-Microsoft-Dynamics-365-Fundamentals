@@ -8,11 +8,11 @@ lab:
 ## Module 6, Lab 1 -Explore Dynamics 365 Marketing
 
 **Prerequisites:** Prior to performing the steps of this lab, perform the following tasks: 
-1. Go to **Marketing** > **Files**
-1. Click **New**
-1. Click **Add files**
+1. Go to **Marketing** > **Files**.
+1. Click **New**.
+1. Click **Add files**.
 1. Uploads at least one image from your desktop.
-1. Click **Upload**
+1. Click **Upload**.
 
 **Optional:**  
 
