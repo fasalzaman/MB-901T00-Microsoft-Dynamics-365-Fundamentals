@@ -13,10 +13,11 @@ lab:
 1. Click **Add files**.
 1. Uploads at least one image from your desktop.
 1. Click **Upload**.
+1. Once the upload is complete, click **Done.**
 
 **Optional:**  
 
-1. In your Dynamics 365 instance, go to **Settings** > **Data Management**. 
+1. In your Dynamics 365 instance, click the **Gear icon** and select **Advanced Settings** from the dropdown. Then navigate to **Settings** > **System** > **Data Management**. 
 1. Select **Sample Data**. 
 1. If the sample data isn't installed, select **Install Sample Data**. The sample data might take a few minutes to appear, but you can continue to use the application while it's installed. 
 1. Select **Close**. 
