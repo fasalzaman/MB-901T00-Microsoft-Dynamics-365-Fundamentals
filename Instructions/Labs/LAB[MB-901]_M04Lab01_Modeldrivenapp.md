@@ -31,7 +31,7 @@ Sign in with your window’s live id to Power Apps. If you don’t already have 
     - **Type: Entity**
     - **Entity: Account**  
     - Click **Save.** 
-24.	Click **App Designer**
+24.	Click **App Designer**.
 25.	On the app designer canvas select **Forms**, and then on the right pane under the **Main Forms** group select the **Account** form.
 26.	Click the **back** button.
 27.	On the app designer canvas select **Views**, and then select the **Active Accounts**, **All Accounts**, and **My Active Accounts** views.
