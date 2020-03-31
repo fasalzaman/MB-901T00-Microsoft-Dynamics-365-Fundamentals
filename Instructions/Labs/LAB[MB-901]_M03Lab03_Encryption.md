@@ -13,10 +13,6 @@ lab:
 
 1. Navigate to Power Platform Admin center.  
 1. These settings can be found in to **Environments** > [select an environment] > **Settings** > **Encryption** > **Data encryption**.
-1. In the upper-right corner of the screen, select **Settings**  > **Personalization Settings**.
-1. Scroll down to the very bottom of the **Set Personal Options** dialog box, and then choose **View your user information**.
-1. Select the different areas such as **Summary**, **Details**, or **Administration** to see details about your profile.
-1. Select an environment and go to **Settings** > **Encryption** > **Data encryption**.
 1. In the **Change Encryption Key** box type the new encryption key and then select **Change**.
 1. Select **OK** in the confirmation message and then select **Close** to exit the **Data Encryption** page.
 
