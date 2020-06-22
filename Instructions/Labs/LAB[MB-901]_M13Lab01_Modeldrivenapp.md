@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'Lab 01: Build your first model-driven app from scratch'
-    module: 'Module 04: Connect and analyze your Dynamics 365 data'
+    module: 'Module 13: Connect and analyze your Dynamics 365 data'
 ---
 
 # MB-901: Dynamics 365 Fundamentals
-## Module 4, Lab 1: Build your first model-driven app from scratch
+## Module 14, Lab 1: Build your first model-driven app from scratch
 
 **Scenario:** You need to simplify create a model-driven app by using one of the standard entities that's available in your Power Apps environment. Model-driven apps don't run in the Power Apps mobile app. Instead, you run a model-driven app on a mobile device using either the Dynamics 365 mobile app or in the phone's web browser.
 
