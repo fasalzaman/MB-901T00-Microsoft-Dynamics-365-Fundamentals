@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'Lab 03: Enhance security by encrypting your data'
-    module: 'Module 03: Recognize Dynamics 365 security'
+    module: 'Module 12: Recognize Dynamics 365 security'
 ---
 
 # MB-901: Dynamics 365 Fundamentals
-## Module 3, Lab 3: Enhance security by encrypting your data
+## Module12, Lab 3: Enhance security by encrypting your data
 
 **Scenario:** You, as a system administrator need to change and copy the organization encryption key.
 
