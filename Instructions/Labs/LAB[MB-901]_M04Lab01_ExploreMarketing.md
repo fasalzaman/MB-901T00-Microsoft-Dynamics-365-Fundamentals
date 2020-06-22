@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'Lab 01: Explore Dynamics 365 Marketing'
-    module: 'Module 06: Introduction to Dynamics 365 Marketing'
+    module: 'Module 04: Introduction to Dynamics 365 Marketing'
 ---
 
 # MB-901: Dynamics 365 Fundamentals 
-## Module 6, Lab 1 -Explore Dynamics 365 Marketing
+## Module 4, Lab 1 -Explore Dynamics 365 Marketing
 
 **Prerequisites:** Prior to performing the steps of this lab, perform the following tasks: 
 1. Go to **Marketing** > **Files**.
