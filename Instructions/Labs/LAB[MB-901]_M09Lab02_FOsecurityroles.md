@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'Lab 02: Explore security roles in Dynamics 365 Finance and Operations applications'
-    module: 'Module 03: Recognize Dynamics 365 security'
+    module: 'Module 09: Recognize Dynamics 365 security'
 ---
 
 # MB-901: Dynamics 365 Fundamentals
-## Module 3, Lab 2 - Explore security roles in Dynamics 365 Finance and Operations applications
+## Module 9, Lab 2 - Explore security roles in Dynamics 365 Finance and Operations applications
 
 ### Exclude role
 
