@@ -47,24 +47,6 @@ lab:
 1. In the **Topic** field, type **Likes our Xbox products**.
 1. Click **Save**.
 
-### Change system settings
-
-1. Navigate to the **Settings** gear icon in the upper right menu. Use the dropdown to choose **Advanced Settings**.
-1. Click the dropdown next to **Settings** and navigate to **Administration** under **System Settings.**
-1. Select **Sales** tab.
-1. In the **Qualify lead experience** field, select **No**.
-1. Click **OK**.
-
-### Qualify the new lead
-
-1. In the **Dynamics 365 Sales Hub**, navigate to **Sales** > **Leads**.
-1. Select **Cameron Azadi**.
-1. Click **Qualify** button.
-1. In the **Qualify Lead** form, click **Contact**. This will change the value from **Yes** to **No**.
-1. In the **Qualify Lead** form, click **Opportunity**. This will change the value from **No** to **Yes**.
-1. In the **Qualify Lead** form, click **OK**. 
-**Note:** The lead will progress to Develop stage.
-
 ### Add notes to the new lead
 
 1. In the **Timeline** section, click **+** to add a new **Note**.
@@ -74,6 +56,13 @@ lab:
 1. In the **Title** field, type **Xbox X-Series product information**.
 1. Click the attachment icon and select the word document you have created at the beginning of this lab.
 1. Click **Add note**.
+
+### Qualify the new lead
+
+1. In the **Dynamics 365 Sales Hub**, navigate to **Sales** > **Leads**.
+1. Select **Cameron Azadi**.
+1. Click **Qualify** button.
+**Note:** The lead will progress to Develop stage.
 
 ### Verify the notes created in the lead from Opportunities
 
