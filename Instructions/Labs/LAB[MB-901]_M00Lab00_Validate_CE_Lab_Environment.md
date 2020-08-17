@@ -60,6 +60,6 @@ In this exercise, you will open the Dynamics 365 model-driven application and ex
 
 3.  Select the **Edit** button. You will open the Contoso environment in the **Power Platform Admin center.**
 
-4. From the list of available Dynamics 365 apps, select **Sales**
+4. From the list of available Dynamics 365 apps, select **Sales**.
 
 5. Spend a few minutes exploring the application.
