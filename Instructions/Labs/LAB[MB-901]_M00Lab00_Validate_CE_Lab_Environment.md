@@ -10,10 +10,7 @@ Module 0: Course introduction
 
 ## Practice Lab - Validate lab environment 
 
-Scenario
---------
-
-[OVERALL LAB SCENARIO HERE]
+In this Module 0 lab, you will validate that your classroom tenant is working as expected. You will access your individual credentials, record your “alias”, and access the Power Platform admin center. In the admin center, we will create an individual environment using your alias. Then we will access the Dynamics 365 model-driven application that we will be using throughout the course. 
 
 
 **Important Note:** This lab will provide you with an actual Dynamics 365 tenant
