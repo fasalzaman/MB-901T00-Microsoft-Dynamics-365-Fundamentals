@@ -27,15 +27,15 @@ Exercise 1 - Access the app
 **Important:** Please be aware that this tenant and the Dynamics 365 organization will be shared with the other students in your classroom, like employees would share a tenant when using the Dynamics 365 instance belonging to their organization. Do not use any PII (personally identifiable information) when creating records. It is also good practice to use your username prefix (ex., **mollyc**) in front of all records, data, apps, flows, etc. you create.
 2. Select **Environments** and click **+New.**
 
-    - For **Name**, enter **[my prefix] Practice.** (Example: mollyc Practice.)
+    * For **Name**, enter **[my prefix] Practice.** (Example: mollyc Practice.)
     
-    - For **Type**, select **Trial.**
+    * For **Type**, select **Trial.**
     
-    - Change the toggle on **Create a database for this environment?** to **Yes.**
+    * Change the toggle on **Create a database for this environment?** to **Yes.**
     
-    - Leave all other selections as default and click **Save.**
+    * Leave all other selections as default and click **Save.**
     
-    - On the next tab, leave all selections to default and click **Save** again.
+    * On the next tab, leave all selections to default and click **Save** again.
     
 
 3. Your **Practice** environment should now show in the list of Environments. You may also see other students' environments in this list with their individual prefixes; only work within your Practice environment.
