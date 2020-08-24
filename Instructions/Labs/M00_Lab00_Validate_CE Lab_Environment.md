@@ -1,7 +1,4 @@
 
-# MB-901: Dynamics 365 Sales
-
-
 Module 0: Course introduction
 ========================
 
