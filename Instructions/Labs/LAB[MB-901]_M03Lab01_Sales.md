@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 01: Explore Dynamics 365 Sales'
-    module: 'Module 03: Introduction to Dynamics 365 Sales'
----
-
 # MB-901: Dynamics 365 Sales
 ## Module 3, Lab 1 – Explore Dynamics 365 Sales
 
