@@ -1,8 +1,3 @@
----
-lab:
-    title: 'Lab 01: Build your first model-driven app from scratch'
-    module: 'Module 13: Connect and analyze your Dynamics 365 data'
----
 
 # MB-901: Dynamics 365 Fundamentals
 ## Module 14, Lab 1: Build your first model-driven app from scratch
@@ -15,7 +10,7 @@ Sign in with your window’s live id to Power Apps. If you don’t already have 
 1. Access the Power Platform Admin Center.
 12.	Click **Environments**.
 13.	Click on your trial CRM environment. 
-14.	Click ![Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx?redirect=False0) hyperlink.
+14.	Click [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx?redirect=False0) hyperlink.
 15.	Select **GTLPowerApps**.
 16.	Click **Open**.
 17.	Click **Create new App**.
