@@ -1,8 +1,3 @@
----
-lab:
-    title: 'Lab 01: Explore Dynamics 365 Marketing'
-    module: 'Module 04: Introduction to Dynamics 365 Marketing'
----
 
 # MB-901: Dynamics 365 Fundamentals 
 ## Module 4, Lab 1 -Explore Dynamics 365 Marketing
